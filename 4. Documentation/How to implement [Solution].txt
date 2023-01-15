@@ -1,0 +1,18 @@
+Hardware Requirements: 
+	1. Ultrasonic Sensor
+	2. Arduino UNO
+	3. Male, Female jumper wires
+	4. Breadboard
+	5. Servo Motor
+	6. USB Cable(Power Supply for Arduino UNO)
+
+Software Requirements: 
+	1. Processing App - Download here: https://processing.org/download
+	2. Arduino IDE - Download here: https://docs.arduino.cc/software/ide-v1/tutorials/Windows
+
+Steps:
+	1. Download required tools
+	2. Configure the setup as shown in the circuit diagram (Source Code>Circuit Diagram)
+	3. Setup portnumber
+	4. Run the code using proccessing app
+	5. Detailed video - https://www.youtube.com/watch?v=JvmIutmQd9U
